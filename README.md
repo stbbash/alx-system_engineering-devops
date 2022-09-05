@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-My ALX First Engineering Devops
+how to use command lines from man to navigate the terminal/shell
